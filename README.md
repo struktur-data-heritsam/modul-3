@@ -1,3 +1,3 @@
 # Jurnal 3
 
-SOAL: [PDF](soal.pdf)
+Soal: [PDF](soal.pdf)
